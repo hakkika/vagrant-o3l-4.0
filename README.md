@@ -1,2 +1,2 @@
 # vagrant-o3l-4.0
-Oracle Openstack 4.0 Vagrant
+Setting up a 5 node installation of Oracle Openstack 4.0 using Vagrant
